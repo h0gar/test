@@ -6,4 +6,4 @@
 
 #Usage
 
-	http://127.0.0.1/project/public
+	http://127.0.0.1/project/public/form
