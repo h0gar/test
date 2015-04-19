@@ -13,3 +13,10 @@ Go to
 #Uploaded files
 
 Uploaded files are stored in project/public/uploads/
+
+#Interesting files
+
+- app/controllers/UserController.php
+- app/routes.php
+- app/views/form.php
+- app/views/submit.php
