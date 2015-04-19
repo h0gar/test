@@ -6,4 +6,10 @@
 
 #Usage
 
+Go to
+
 	http://127.0.0.1/project/public/form
+
+#Uploaded files
+
+Uploaded files are stored in project/public/uploads/

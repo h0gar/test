@@ -15,3 +15,7 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::get('form', 'UserController@form');
+
+Route::post('submit', 'UserController@submit');
